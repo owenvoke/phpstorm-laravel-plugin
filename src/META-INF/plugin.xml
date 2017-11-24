@@ -1,0 +1,19 @@
+<idea-plugin version="2">
+  <id>uk.co.cylix.idea.plugin.laravel</id>
+  <name>Laravel IDE Helper</name>
+  <version>0.1</version>
+  <vendor>Cylix Limited</vendor>
+
+  <description><![CDATA[Provides support of the Laravel framework.]]></description>
+
+  <change-notes><![CDATA[]]></change-notes>
+
+  <idea-version since-build="163.3984"/>
+
+  <depends>com.intellij.modules.platform</depends>
+  <depends>com.jetbrains.php</depends>
+
+  <extensions defaultExtensionNs="com.jetbrains.php">
+    <libraryRoot id="laravel" path="/laravel/" runtime="false"/>
+  </extensions>
+</idea-plugin>
