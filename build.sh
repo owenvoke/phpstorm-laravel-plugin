@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-zip -r phpstorm-library-plugin.jar src/*
+cd src
+zip -r ../phpstorm-library-plugin.jar *
+cd ..
