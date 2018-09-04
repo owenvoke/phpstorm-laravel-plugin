@@ -1,5 +1,7 @@
 # phpstorm-laravel-plugin
 
+[![Software License][ico-license]](LICENSE.md)
+
 A PhpStorm plugin SHIM builder for the [`laravel-ide-helper`][link-ide-helper].
 
 ## Install
@@ -26,6 +28,8 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 
 [link-base-author]: https://github.com/barryvdh
 [link-ide-helper]: https://github.com/barryvdh/laravel-ide-helper
