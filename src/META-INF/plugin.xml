@@ -1,8 +1,7 @@
 <idea-plugin version="2">
-  <id>uk.co.cylix.idea.plugin.laravel</id>
+  <id>xyz.pxgamer.idea.plugin.laravel</id>
   <name>Laravel IDE Helper</name>
-  <version>1.0.0</version>
-  <vendor>Cylix Limited</vendor>
+  <vendor>pxgamer</vendor>
 
   <description><![CDATA[Provides support of the Laravel framework.]]></description>
 
