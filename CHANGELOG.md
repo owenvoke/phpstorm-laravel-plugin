@@ -1,8 +1,8 @@
 # Changelog
 
-All notable changes to `phpstorm-laravel-plugin` will be documented in this file.
+All notable changes to this project will be documented in this file.
 
-Updates should follow the [Keep a CHANGELOG](https://keepachangelog.com) principles.
+The format is based on [Keep a Changelog](https://keepachangelog.com), and this project adheres to [Semantic Versioning](https://semver.org).
 
 ## v1.1.0 - 2018-09-26
 
