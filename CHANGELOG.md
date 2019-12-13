@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com), and this project adheres to [Semantic Versioning](https://semver.org).
 
+## v1.1.1 - 2019-12-13
+
+### Changed
+- Add deprecation message (479bc4c)
+
 ## v1.1.0 - 2018-09-26
 
 ### Changed
