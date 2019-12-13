@@ -1,10 +1,12 @@
-# phpstorm-laravel-plugin
+# PhpStorm Laravel Plugin
 
 [![Software License][ico-license]](LICENSE.md)
 
 A PhpStorm plugin SHIM builder for the [`laravel-ide-helper`][link-ide-helper].
 
 ## Install
+
+> This package is deprecated. Use the [`laravel-ide-helper`][link-ide-helper] package directly in your project.
 
 To build the plugin, just run the `build.sh` file.
 
